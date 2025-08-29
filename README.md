@@ -33,11 +33,16 @@ The workflow covers **sequence retrieval, multiple sequence alignment, conserved
 ---
 
 ## 📊 Results  
-- **Conserved motifs** detected across all species, indicating essential functional sites of AChE.  
+- **Conserved motifs** detected across all species, indicating essential functional sites of AChE.
+
+  <img width="1919" height="1016" alt="Screenshot 2025-08-29 163324" src="https://github.com/user-attachments/assets/71ab9c8c-af06-479d-bc8a-e4dd95247a7e" />
+  
 - **Phylogenetic analysis**:  
   - Mammals (human, mouse, rat) clustered closely, showing high similarity.  
   - Fruit fly appeared as the most evolutionary distant species.  
-- Demonstrates **conservation and divergence** of AChE sequences across evolution.  
+- Demonstrates **conservation and divergence** of AChE sequences across evolution.
+  
+<img width="1920" height="1440" alt="ache_tree_NJ" src="https://github.com/user-attachments/assets/e0a528b9-b6b4-475e-872a-3b1cc6d124d0" />
 
 ---
 
@@ -75,5 +80,7 @@ The workflow covers **sequence retrieval, multiple sequence alignment, conserved
 - **Biopython developers** for open-source tools.  
 - **Clustal Omega & Jalview** for alignment visualization.  
 - **NCBI** for sequence database access.  
-- **Matplotlib** community for visualization support.  
+- **Matplotlib** community for visualization support.
+    
+
 
