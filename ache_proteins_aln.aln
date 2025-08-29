@@ -1,0 +1,93 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+Homo_sapiens|NP_001354847.1|len=681                 MLGLVMSCPDRTLVTKVRSHPSGNQHRPTRGGSRSFHCRRGVRPRPAALRVLPRCPAFSA
+Mus_musculus|NP_001276939.1|len=614                 ------------------------------------------------------------
+Rattus_norvegicus|NP_742006.2|len=614               ------------------------------------------------------------
+Danio_rerio|NP_571921.1|len=634                     ------------------------------------------------------------
+Drosophila_melanogaster|NP_001163600.1|len=649      -----------------------------------------------------------M
+                                                                                                                
+
+Homo_sapiens|NP_001354847.1|len=681                 DAACPAAMRPPQCLLHTPSLASPLLLLLLWLLGGGVGAEGREDAELLVTVRGGRLRGIRL
+Mus_musculus|NP_001276939.1|len=614                 -------MRPPWYPLHTPSLAFPLLFLLLSLLGGGARAEGREDPQLLVRVRGGQLRGIRL
+Rattus_norvegicus|NP_742006.2|len=614               -------MRPPWYPLHTPSLASPLLFLLLSLLGGGARAEGREDPQLLVRVRGGQLRGIRL
+Danio_rerio|NP_571921.1|len=634                     -------------MKTSDILLLPTVLLTFLF----HNCFAQAEPDLVVATRLGRVQGTRL
+Drosophila_melanogaster|NP_001163600.1|len=649      AISCRQSRVLPMSLPLPLTIPLPLVLVLSLHLSGVCGV----IDRLVVQTSSGPVRGRSV
+                                                                       :  * :::                  *:* .  * ::*  :
+
+Homo_sapiens|NP_001354847.1|len=681                 KTPGG-PVSAFLGIPFAEPPMGPRRFLPPEPKQPWSGVVDATTFQSVCYQYVDTLYPGFE
+Mus_musculus|NP_001276939.1|len=614                 KAPGG-PVSAFLGIPFAEPPVGSRRFMPPEPKRPWSGVLDATTFQNVCYQYVDTLYPGFE
+Rattus_norvegicus|NP_742006.2|len=614               KAPGG-PVSAFLGIPFAEPPVGSRRFMPPEPKRPWSGILDATTFQNVCYQYVDTLYPGFE
+Danio_rerio|NP_571921.1|len=634                     PVPDRSHVIAFLGIPYAEPPIGKRRFKRAEPKKPWNNVFEAKEFSNACYQFVDTSYPGFP
+Drosophila_melanogaster|NP_001163600.1|len=649      TVQGR-EVHVYTGIPYAKPPVEDLRFRKPVPAEPWHGVLDATRLSATCVQERYEYFPGFS
+                                                     .     * .: ***:*:**:   **    * .**  :.:*. :. .* *     :*** 
+
+Homo_sapiens|NP_001354847.1|len=681                 GTEMWNPNRELSEDCLYLNVWTPYPRP--------------------------------T
+Mus_musculus|NP_001276939.1|len=614                 GTEMWNPNRELSEDCLYLNVWTPYPRP--------------------------------A
+Rattus_norvegicus|NP_742006.2|len=614               GTEMWNPNRELSEDCLYLNVWTPYPRP--------------------------------T
+Danio_rerio|NP_571921.1|len=634                     GIEMWNPNRVMSEDCLYLNVWVPPTPR--------------------------------P
+Drosophila_melanogaster|NP_001163600.1|len=649      GEEIWNPNTNVSEDCLYINVWAPAKARLRHGRGANGGEHPNGKQADTDHLIHNGNPQNTT
+                                                    * *:****  :******:***.*                                     
+
+Homo_sapiens|NP_001354847.1|len=681                 SPTPVLVWIYGGGFYSGASSLDVYDGRFLVQAERTVLVSMNYRVGAFGFLALPG------
+Mus_musculus|NP_001276939.1|len=614                 SPTPVLIWIYGGGFYSGAASLDVYDGRFLAQVEGAVLVSMNYRVGTFGFLALPG------
+Rattus_norvegicus|NP_742006.2|len=614               SPTPVLIWIYGGGFYSGASSLDVYDGRFLAQVEGTVLVSMNYRVGTFGFLALPG------
+Danio_rerio|NP_571921.1|len=634                     QNLTVMVWIYGGGFYSGSSSLDVYDGRYLAYTEKVVVVSMNYRVGAFGFLALNG------
+Drosophila_melanogaster|NP_001163600.1|len=649      NGLPILIWIYGGGFMTGSATLDIYNADIMAAVGNVIVASFQYRVGAFGFLHLAPEMPSEF
+                                                    .   :::******* :*:::**:*:.  :. .  .::.*::****:**** *        
+
+Homo_sapiens|NP_001354847.1|len=681                 SREAPGNVGLLDQRLALQWVQENVAAFGGDPTSVTLFGESAGAASVGMHLLSPPSRGLFH
+Mus_musculus|NP_001276939.1|len=614                 SREAPGNVGLLDQRLALQWVQENIAAFGGDPMSVTLFGESAGAASVGMHILSLPSRSLFH
+Rattus_norvegicus|NP_742006.2|len=614               SRDAPGNVGLLDQRLALQWVQENIAAFGGDPMSVTLFGESAGAASVGMHILSLPSRSLFH
+Danio_rerio|NP_571921.1|len=634                     SSDAPGNVGLYDQRLALQWVQENIHFFGGNPKQVTIFGESAGAASVGMHVLSPDSRPLFT
+Drosophila_melanogaster|NP_001163600.1|len=649      AEEAPGNVGLWDQALAIRWLKDNAHAFGGNPEWMTLFGESAGSSSVNAQLMSPVTRGLVK
+                                                    : :******* ** **::*:::*   ***:*  :*:******::**  :::*  :* *. 
+
+Homo_sapiens|NP_001354847.1|len=681                 RAVLQSGAPNGPWATVGMGEARRRATQLAHLVGCPPGGTGGNDTELVACLRTRPAQVLVN
+Mus_musculus|NP_001276939.1|len=614                 RAVLQSGTPNGPWATVSAGEARRRATLLARLVGCPPGGAGGNDTELIACLRTRPAQDLVD
+Rattus_norvegicus|NP_742006.2|len=614               RAVLQSGTPNGPWATVSAGEARRRATLLARLVGCPPGGAGGNDTELISCLRTRPAQDLVD
+Danio_rerio|NP_571921.1|len=634                     RAILQSGVPNTPWATVTFDEARRRTTKLGKLVGCTW----GNDTELIDCLRNKHPQELID
+Drosophila_melanogaster|NP_001163600.1|len=649      RGMMQSGTMNAPWSHMTSEKAVEIGKALINDCNCNASMLKTNPAHVMSCMRSVDAKTISV
+                                                    *.::***. * **: :   :* .  . * .   *       * :.:: *:*.   : :  
+
+Homo_sapiens|NP_001354847.1|len=681                 HEWHVLPQESVFRFSFVPVVDGDFLSDTPEALINAGDFHGLQVLVGVVKDEGSYFLVYGA
+Mus_musculus|NP_001276939.1|len=614                 HEWHVLPQESIFRFSFVPVVDGDFLSDTPEALINTGDFQDLQVLVGVVKDEGSYFLVYGV
+Rattus_norvegicus|NP_742006.2|len=614               HEWHVLPQESIFRFSFVPVVDGDFLSDTPEALINTGDFQDLQVLVGVVKDEGSYFLVYGV
+Danio_rerio|NP_571921.1|len=634                     QEWQVLPWSSLFRFSFVPVVDGVFFPDTPDAMISSGNFKYTQILLGVNQDEGSYFLLYGA
+Drosophila_melanogaster|NP_001163600.1|len=649      QQWNS--YSGILSFPSAPTIDGAFLPADPMTLMKTADLKDYDILMGNVRDEGTYFLLYDF
+                                                    ::*.    ..:: *  .*.:** *:   * :::.:.:::  ::*:*  :***:***:*  
+
+Homo_sapiens|NP_001354847.1|len=681                 PG-FSKDNESLISRAEFLAGVRVGVPQVSDLAAEAVVLHYTDWLHPEDPARLREALSDVV
+Mus_musculus|NP_001276939.1|len=614                 PG-FSKDNESLISRAQFLAGVRIGVPQASDLAAEAVVLHYTDWLHPEDPTHLRDAMSAVV
+Rattus_norvegicus|NP_742006.2|len=614               PG-FSKDNESLISRAQFLAGVRIGVPQASDLAAEAVVLHYTDWLHPEDPAHLRDAMSAVV
+Danio_rerio|NP_571921.1|len=634                     PG-FSKDNESLISREDFLESVKMGVPHANDIGLEAVILQYTDWMDENNGQKNRDAMDDIV
+Drosophila_melanogaster|NP_001163600.1|len=649      IDYFDKDDATALPRDKYLEIMNNIFGKATQAEREAIIFQYTSWEGN-PGYQNQQQIGRAV
+                                                       *.**: : : * .:*  :.  . :..:   **::::**.*       : :: :   *
+
+Homo_sapiens|NP_001354847.1|len=681                 GDHNVVCPVAQLAGRLAA------------------------------QGARVYAYVFEH
+Mus_musculus|NP_001276939.1|len=614                 GDHNVVCPVAQLAGRLAA------------------------------QGARVYAYIFEH
+Rattus_norvegicus|NP_742006.2|len=614               GDHNVVCPVAQLAGRLAA------------------------------QGARVYAYIFEH
+Danio_rerio|NP_571921.1|len=634                     GDQNVICPLQHFAKSYAQYAALHAQSSAAAPGTLGWGNSGPTGYNSGNSHGAVYLYLFDH
+Drosophila_melanogaster|NP_001163600.1|len=649      GDHFFTCPTNEYAQALAE------------------------------RGASVHYYYFTH
+                                                    **: . **  . *   *                                 . *: * * *
+
+Homo_sapiens|NP_001354847.1|len=681                 RASTLSWPLWMGVPHGYEIEFIFGIPLDPSRNYTAEEKIFAQRLMRYWANFARTGDPNEP
+Mus_musculus|NP_001276939.1|len=614                 RASTLTWPLWMGVPHGYEIEFIFGLPLDPSLNYTTEERIFAQRLMKYWTNFARTGDPNDP
+Rattus_norvegicus|NP_742006.2|len=614               RASTLTWPLWMGVPHGYEIEFIFGLPLDPSLNYTVEERIFAQRLMKYWTNFARTGDPNDP
+Danio_rerio|NP_571921.1|len=634                     RASNLAWPEWMGVIHGYEIEFVFGLPLEKRLNYTAEEEKLSRRIMRYWANFARTGNPNVN
+Drosophila_melanogaster|NP_001163600.1|len=649      RTSTSLWGEWMGVLHGDEIEYFFGQPLNNSLQYRPVERELGKRMLSAVIEFAKTGNPAQD
+                                                    *:*.  *  **** ** ***:.** **:   :*   *. :.:*::    :**:**:*   
+
+Homo_sapiens|NP_001354847.1|len=681                 RDP---KAPQWPPYTAGAQQYVSL--DLRPLEVRRGLRAQACAFWNRFLPKLLSATDTLD
+Mus_musculus|NP_001276939.1|len=614                 RDS---KSPQWPPYTTAAQQYVSL--NLKPLEVRRGLRAQTCAFWNRFLPKLLSATDTLD
+Rattus_norvegicus|NP_742006.2|len=614               RDS---KSPRWPPYTTAAQQYVSL--NLKPLEVRRGLRAQTCAFWNRFLPKLLSATDTLD
+Danio_rerio|NP_571921.1|len=634                     TDGTMDSRRRWPQFSANEQKHVGL--NTEPMKVHKGLRTQFCALWNRFLPRLLNITDNID
+Drosophila_melanogaster|NP_001163600.1|len=649      -------GEEWPNFSKEDPVYYIFSTDDKIEKLARGPLAARCSFWNDYLPKVRSWAGTCD
+                                                             .** ::     :  :  : .  :: :*  :  *::** :**:: . : . *
+
+Homo_sapiens|NP_001354847.1|len=681                 EAERQWKAEFHRWSSYMVHWKNQFDHYSKQDRCSDL------
+Mus_musculus|NP_001276939.1|len=614                 EAERQWKAEFHRWSSYMVHWKNQFDHYSKQERCSDL------
+Rattus_norvegicus|NP_742006.2|len=614               EAERQWKAEFHRWSSYMVHWKNQFDHYSKQERCSDL------
+Danio_rerio|NP_571921.1|len=634                     DVERQWKVEFHRWSSYMMHWKSQFDHYSKQERCTDL------
+Drosophila_melanogaster|NP_001163600.1|len=649      GDSGSASISPRL---------QLLGIAALIYICAALRTKRVF
+                                                      . . . . :          . :   :    *: *      
