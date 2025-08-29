@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-AChE-Using-Biopython-Conserved-Motifs-and-Phylogenetic-Insights
+This project uses Biopython to analyze Acetylcholinesterase (AChE) protein sequences across species. Includes sequence retrieval, multiple sequence alignment (Clustal Omega), conserved motif visualization (Jalview), and phylogenetic tree construction (Biopython + Matplotlib) to study evolutionary relationships.
